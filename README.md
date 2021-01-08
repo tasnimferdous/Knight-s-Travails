@@ -1,1 +1,1 @@
-# Knight-s-Travails
+In this project our goal is to find the shortest path a knight can take from its current position to given target position. As for input, we will use the size of the chess board, the current position of the knight and the target position of the knight and we will have the minimum step counts of the knight from the current position to the target position as the output. We have done this project using c++.
